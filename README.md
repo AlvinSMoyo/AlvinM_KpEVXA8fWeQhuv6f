@@ -45,15 +45,12 @@ The project was executed in clearly defined stages:
 
 ## 📊 Sample Visualizations
 
-> You can include screenshots of graphs or charts here. Just upload them to your repo and link them like this:
-
 ### Sentiment Distribution Chart
 ![Sentiment Chart](images/sentiment_distribution.png)
 
 ### Word Cloud of Positive Feedback
 ![Word Cloud](images/wordcloud_positive.png)
 
-> 📌 **Note**: Create a folder named `images` in your repo and place your screenshots there.
 
 ---
 
