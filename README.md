@@ -63,14 +63,20 @@ The project was executed in clearly defined stages:
 
 ---
 
-## 🙌 Final Thoughts for Hiring Managers & Recruiters
+🙌 Final Thoughts
+This project was a valuable opportunity to:
 
-This project represents my ability to:
-- Work independently through a full-cycle data science project.
-- Tackle real-world business problems using practical machine learning and data analysis skills.
-- Communicate findings in a clear and visually compelling manner.
+Work independently through a full end-to-end data science workflow
 
-I’m confident that the skills demonstrated here—ranging from **data wrangling** to **sentiment modeling** and **storytelling with data**—would make a strong contribution to any data-driven team. Thank you for reviewing my work!
+Apply machine learning and data analysis to solve a real-world business problem
+
+Communicate insights clearly through visualizations and interpretation tools like SHAP
+
+From data wrangling to sentiment modeling and storytelling with data, this project reflects a practical approach to using data for meaningful insights.
+
+Thanks for exploring my work! I hope it provides value or inspiration for your own data science journey. 🚀
+
+
 
 ---
 
