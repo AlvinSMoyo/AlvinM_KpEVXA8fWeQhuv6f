@@ -70,8 +70,15 @@ This module demonstrates how structured feedback can be enriched through synthet
 ### Sentiment Distribution Chart
 ![Sentiment Chart](images/sentiment_distribution.png)
 
-### Word Cloud of Positive Feedback
-![Word Cloud](images/wordcloud_positive.png)
+### WordCloud: Overall Feedback
+![WordCloud: Overall](images/overall_feedback_wordcloud.png)
+
+### WordCloud: Positive Feedback
+![WordCloud: Positive](images/positive_feedback_wordcloud.png)
+
+### WordCloud: Negative Feedback
+![WordCloud: Negative](images/negative_feedback_wordcloud.png)
+
 
 ---
 
@@ -94,7 +101,6 @@ This project was a valuable opportunity to:
 From data wrangling to sentiment modeling and storytelling with data, this project reflects a practical approach to using data for meaningful insights.
 
 **Thanks for exploring my work!** I hope it provides value or inspiration for your own data science journey. 🚀
-
 
 
 
