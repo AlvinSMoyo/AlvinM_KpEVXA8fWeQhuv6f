@@ -68,16 +68,16 @@ This module demonstrates how structured feedback can be enriched through synthet
 ## 📊 Sample Visualizations
 
 ### Sentiment Distribution Chart
-![Sentiment Chart](images/sentiment_distribution.png)
+![Sentiment Chart](Images/sentiment_distribution.png)
 
 ### WordCloud: Overall Feedback
-![WordCloud: Overall](images/overall_feedback_wordcloud.png)
+![WordCloud: Overall](Images/overall_feedback_wordcloud.png)
 
 ### WordCloud: Positive Feedback
-![WordCloud: Positive](images/positive_feedback_wordcloud.png)
+![WordCloud: Positive](Images/positive_feedback_wordcloud.png)
 
 ### WordCloud: Negative Feedback
-![WordCloud: Negative](images/negative_feedback_wordcloud.png)
+![WordCloud: Negative](Images/negative_feedback_wordcloud.png)
 
 
 ---
