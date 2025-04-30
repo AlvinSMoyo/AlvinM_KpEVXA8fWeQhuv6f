@@ -1,4 +1,12 @@
-# Happy Customers Project at Apziva
+# Happy Customers Project
+
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![NLP](https://img.shields.io/badge/Bonus-NLP_Analysis-ff69b4)
+![Made with](https://img.shields.io/badge/Made%20With-%E2%9D%A4%EF%B8%8F%20by%20Alvin-lightgrey)
+
+---
 
 ## 📝 Project Overview
 
@@ -43,6 +51,20 @@ The project was executed in clearly defined stages:
 
 ---
 
+## 🎁 Bonus Module: NLP-Based Insight Extraction
+
+To extend the analysis, a simulated `Comments` column was generated using Likert-scale responses to mimic open-ended feedback.  
+Natural Language Processing (NLP) techniques were applied to extract sentiment and highlight dominant feedback themes.
+
+**Techniques Used:**
+- **TextBlob** – for polarity scoring  
+- **TF-IDF** – to extract weighted keywords  
+- **WordCloud** – to visualize common terms by sentiment group
+
+This module demonstrates how structured feedback can be enriched through synthetic NLP analysis, adding storytelling and insight for decision-makers.
+
+---
+
 ## 📊 Sample Visualizations
 
 ### Sentiment Distribution Chart
@@ -50,7 +72,6 @@ The project was executed in clearly defined stages:
 
 ### Word Cloud of Positive Feedback
 ![Word Cloud](images/wordcloud_positive.png)
-
 
 ---
 
@@ -63,18 +84,17 @@ The project was executed in clearly defined stages:
 
 ---
 
-🙌 Final Thoughts
+## 🙌 Final Thoughts
+
 This project was a valuable opportunity to:
-
-Work independently through a full end-to-end data science workflow
-
-Apply machine learning and data analysis to solve a real-world business problem
-
-Communicate insights clearly through visualizations and interpretation tools like SHAP
+- Work independently through a full end-to-end data science workflow  
+- Apply machine learning and data analysis to solve a real-world business problem  
+- Communicate insights clearly through visualizations and interpretation tools like SHAP  
 
 From data wrangling to sentiment modeling and storytelling with data, this project reflects a practical approach to using data for meaningful insights.
 
-Thanks for exploring my work! I hope it provides value or inspiration for your own data science journey. 🚀
+**Thanks for exploring my work!** I hope it provides value or inspiration for your own data science journey. 🚀
+
 
 
 
